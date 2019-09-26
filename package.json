@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/peterhangg/json_the_cat#readme",
   "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
     "request": "^2.88.0"
   }
 }
